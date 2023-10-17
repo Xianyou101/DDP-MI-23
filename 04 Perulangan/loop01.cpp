@@ -4,9 +4,9 @@ using namespace std;
 int main() 
 {
   
-  for (int c = 1; c <= 10; c++)
+  for (int c = 1; c <= 10000; c++)
   {
-  cout << c << " aku sayang tita " << endl;
+  cout << c << " aku sayang talitha amanda " << endl;
 
   }
 

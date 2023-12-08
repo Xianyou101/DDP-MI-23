@@ -12,7 +12,7 @@ int main() {
         for (int j=0; j<velue2; j++) {
             cin >> matrix[i][j];
        }    
-     }
+     } 
     
     for (int i=velue1-1; i>=0; i--) {
         for (int j=velue2-1; j>=0; j--) {
